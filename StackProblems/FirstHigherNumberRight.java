@@ -1,7 +1,7 @@
 import java.util.*;
 
 // find the first higher number on the right of the element in the array
-public class FirstHighestNumberRight {
+public class FirstHigherNumberRight {
 
 	public static ArrayList<Integer> HighestNumberArray(int[] arr){
 		ArrayList<Integer> out = new ArrayList<Integer>();
