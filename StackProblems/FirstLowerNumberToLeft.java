@@ -2,7 +2,7 @@ import java.util.*;
 
 //find the first lower number on the left of the element in the array
 
-public class FirstLowestNumberToLeft {
+public class FirstLowerNumberToLeft {
 
 	public static ArrayList<Integer> LowestNumberArray(int[] arr) {
 		Stack<Integer> st = new Stack<Integer>();
